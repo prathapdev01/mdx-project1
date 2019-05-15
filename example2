@@ -1,4 +1,3 @@
 #!/bin/bash
 clear
 echo "Good morning, world."
-echo "Hello Medibox"
